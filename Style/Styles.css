@@ -1,0 +1,95 @@
+/* Nav design */
+nav ul li a{
+
+     text-decoration: none;
+     color: black;
+     font-size: 20px;
+
+
+
+}
+
+nav ul li{
+    list-style: none;
+    
+    margin-right: 50px;
+}
+nav ul{
+    display: flex;
+   gap: 1500px;
+    align-items: center;
+}
+
+nav{
+    display: flex;  
+    align-items: center;
+   
+    justify-content:space-around;
+    margin: 20px 50px;
+}
+
+.nav-head{
+    font-size: 40px;
+    width: 80px;
+
+}
+
+.nav-button{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-style: bold;
+}
+
+/* For first section */
+.first-section{
+     
+    width: 2230px auto;
+    background-image: url("../assets/Hero-bg.png");
+    background-size: cover;
+   
+}
+
+.set-group-img{
+    margin-left: 47%;
+    margin-top: 10%;
+
+}
+
+.head-part{
+    font-size: 100px;
+    margin-left: 26%;
+}
+
+.paragraph-part{
+    font-size: 30px;
+    margin-left: 35%;
+}
+
+.button-part-div{
+   
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; */
+    margin-left: 30%;
+   
+
+}
+.button-part-design{
+    background-color:#0D1321;
+    color: white;
+    margin-left: 48%;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+} 
+
+
+
+
+
+
+
+ 
