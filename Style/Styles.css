@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* Nav design */
 nav ul li a{
 
@@ -45,7 +47,9 @@ nav{
 /* For first section */
 .first-section{
      
-    width: 2230px auto;
+    width: 1440px auto;
+    height: 1450px auto;
+   
     background-image: url("../assets/Hero-bg.png");
     background-size: cover;
    
@@ -59,12 +63,13 @@ nav{
 
 .head-part{
     font-size: 100px;
-    margin-left: 26%;
+    margin-left: 35%;
+   margin-bottom: 100px;
 }
 
 .paragraph-part{
     font-size: 30px;
-    margin-left: 35%;
+    margin-left: 45%;
 }
 
 .button-part-div{
@@ -78,13 +83,70 @@ nav{
 
 }
 .button-part-design{
-    background-color:#0D1321;
+    background-color:black;
     color: white;
+    
     margin-left: 48%;
     height: 60px;
     width: 200px;
     font-size: 20px;
 } 
+
+/* DEsign for page 2 or Section two */
+
+.part1-page2{
+    display: flex;
+   margin-left: 20%;
+   margin-right: 20%;
+    border: 2px;
+    height: 900px;
+    width: 800px auto;
+   background-color:white ;
+    justify-content: space-between;
+   
+}
+.paragraph-part-page2{
+    font-size: 30px;
+    margin-left: 25%;
+
+}
+
+.part1-page2{
+    font-size: 40px;
+}
+.img1{
+    height: 800px;
+}
+.button-part1{
+    height: 80px;
+    width: 200px;
+    font-size: 30px;
+}
+.layout-change{
+    margin-left: 10px;
+}
+
+/*  My inspiration  part        */
+
+.paragraph-part-page3{
+    font-size: 40px;
+    margin-left: 25%;
+}
+
+.sec3{
+    height: 600px auto;
+    width: 600px auto;
+}
+
+.add-video{
+    
+    
+    margin-left:20% ;
+}
+
+
+
+
 
 
 
