@@ -96,7 +96,7 @@ nav{
 
 .Section-two{
     width: 1140px auto;
-   background-color: aqua;
+   
    height: 11140px auto;
    
 }
@@ -162,7 +162,7 @@ nav{
 .section-four{
     width: 1120px auto;
     height: 2220px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 
 .title-four{
@@ -170,7 +170,7 @@ nav{
     height: 600px;
     width: 1600px;
     margin-left: 40%;
-    background-color: aqua;
+    
 }
 
 .head-four{
@@ -230,7 +230,7 @@ nav{
     width: 920px auto;
     margin-top: 2%;
 
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 
 }
 .head-five{
@@ -264,7 +264,7 @@ nav{
 .last-sec{
     width: 1120px auto;
     height: 1120px;
-    background-color:aqua;
+   
     background-image: url("/assets/handshake.jpg");
     background-position: center;
     background-size: 80%;
@@ -376,6 +376,27 @@ footer div li{
     margin-right: 50px;
 }
 
+.ft{
+    height: 100px;
+    width: 1120px auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+
+.scrollButton:hover {
+    background-color: #0056b3;
+}
 
 
 
