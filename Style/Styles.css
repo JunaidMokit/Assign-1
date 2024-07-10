@@ -212,20 +212,23 @@ nav{
 }
 .h1{
     font-size: 100px;
+    margin: 3%;
 }
 .p1{
     color: black;
     font-size: 80px;
+    margin-left: 4%;
 }
 .s1{
    font-size: 80px;
+   margin-left:4% ;
 }
 
 .color1{
     background-color:beige;
 }
 .color2{
-    background-color:burlywood;
+    background: rgba(0, 76, 232, 0.05);
     
 }
 
