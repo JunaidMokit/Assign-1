@@ -336,6 +336,47 @@ nav{
 }
 
 
+/* footer part */
+
+
+ul li{
+    display: inline;
+
+    gap: 400px;
+}
+ul li a{
+    text-decoration: none;
+color: black;
+font-size: 20px;
+
+}
+
+div ul li{
+    list-style: none;
+    
+    margin-right: 50px;
+}
+
+footer{
+    display: flex;  
+    align-items: center;
+   
+    justify-content:space-around;
+    margin: 20px 50px;
+}
+.add{
+    margin-left: 20%;
+    font-size: 30px;
+    width: 300px;
+}
+
+footer div li{
+    list-style: none;
+    
+    margin-right: 50px;
+}
+
+
 
 
 
