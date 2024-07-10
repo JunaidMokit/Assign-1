@@ -265,7 +265,7 @@ nav{
     width: 1120px auto;
     height: 1120px;
    
-    background-image: url("/assets/handshake.jpg");
+    background-image: url("../assets/handshake.jpg");
     background-position: center;
     background-size: 80%;
     margin: 2% auto;
