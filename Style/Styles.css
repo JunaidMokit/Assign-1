@@ -94,15 +94,22 @@ nav{
 
 /* DEsign for page 2 or Section two */
 
+.section-two{
+    width: 1140px;
+}
+
 .part1-page2{
     display: flex;
    margin-left: 20%;
    margin-right: 20%;
     border: 2px;
-    height: 900px;
+    height: 800px;
     width: 800px auto;
-   background-color:white ;
+   background-color:white;
+    margin-bottom: 10px;
     justify-content: space-between;
+    padding: 30px;
+    border: 0 solid;
    
 }
 .paragraph-part-page2{
@@ -120,7 +127,9 @@ nav{
 .button-part1{
     height: 80px;
     width: 200px;
+    margin-top: 36%;
     font-size: 30px;
+   
 }
 .layout-change{
     margin-left: 10px;
