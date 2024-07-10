@@ -157,6 +157,113 @@ nav{
 }
 
 
+/*My Current Target Part by CSS  */
+
+.section-four{
+    width: 1120px auto;
+    height: 2220px;
+    background-color: antiquewhite;
+}
+
+.title-four{
+    margin-top: 10%;
+    height: 600px;
+    width: 1600px;
+    margin-left: 40%;
+    background-color: aqua;
+}
+
+.head-four{
+    font-size: 90px;
+    margin-left: 20%;
+}
+.p-four{
+    font-size: 50px;
+}
+
+.design-four{
+    display: flex;
+    margin-left: 30%;
+    margin-top: 3%;
+    gap: 40px;
+    
+}
+
+.d-three{
+    height: 1000px;
+    width: 1000px;
+    background-color: bisque;
+}
+
+.im1{
+    height: 300px;
+   margin-top: 2%;
+}
+.h1{
+    font-size: 100px;
+}
+.p1{
+    color: black;
+    font-size: 80px;
+}
+.s1{
+   font-size: 80px;
+}
+
+.color1{
+    background-color:beige;
+}
+.color2{
+    background-color:burlywood;
+    
+}
+
+.color3{
+    background-color: beige;
+}
+
+
+/* Design page 5555555555555 */
+
+.page-five{
+    height: 1100px auto;
+    width: 920px auto;
+    margin-top: 2%;
+
+    background-color: antiquewhite;
+
+}
+.head-five{
+    margin-left: 50%;
+}
+.p5{
+    font-size: 40px;
+    margin-left: 30%;
+}
+
+.five-box{
+    border: 1px solid;
+    height: 800px;
+    margin: 1%;
+    border-radius: 60px;
+    display: flex;
+}
+
+.img2{
+    height: 200px;
+    margin-top: 90%;
+    margin-left: 28%;
+}
+
+.div-two{
+    margin-left: 10%;
+}
+
+
+
+
+
+
 
 
 
