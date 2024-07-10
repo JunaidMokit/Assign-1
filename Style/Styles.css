@@ -259,6 +259,87 @@ nav{
     margin-left: 10%;
 }
 
+/* last-section */
+
+.last-sec{
+    width: 1120px auto;
+    height: 1120px;
+    background-color:aqua;
+    background-image: url("/assets/handshake.jpg");
+    background-position: center;
+    background-size: 80%;
+    margin: 2% auto;
+    background-repeat: no-repeat;
+    /* background: inherit; */
+    
+}
+.head-set{
+    font-size: 150px;
+    color:white ;
+    margin-left: 45%;
+    padding-top: 280px;
+    padding: auto;
+    text-shadow: 2px 2px 4px rgb(231, 226, 226, 3);
+}
+.l-p{
+    margin-left: 43%;
+    font-size: 50px;
+
+    
+}
+
+
+
+
+ .marge-div {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 10px; 
+    margin-top: 20px; 
+}
+
+.last-div, .s-btn {
+    display: inline-block; 
+}
+
+.in-set {
+    padding: 10px;
+    width: 400px auto;
+   height:63px ;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    width: 300px; 
+}
+
+.sub {
+    padding: 10px 20px;
+    /* font-size: 1em; */
+    /* height: 80px;
+    width: 170px; */
+    height: 80px;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #FFFFFF;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+    font-size: 30px;
+}
+/* .last-div{
+    width: 200px;
+} */
+
+.sub:hover {
+    background-color: #f0f0f0;
+}
+
+
+
+
+
+
 
 
 
