@@ -94,8 +94,11 @@ nav{
 
 /* DEsign for page 2 or Section two */
 
-.section-two{
-    width: 1140px;
+.Section-two{
+    width: 1140px auto;
+   background-color: aqua;
+   height: 11140px auto;
+   
 }
 
 .part1-page2{
